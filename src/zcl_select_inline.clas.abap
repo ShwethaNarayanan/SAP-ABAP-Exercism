@@ -121,6 +121,5 @@ CLASS zcl_select_inline IMPLEMENTATION.
                  name = `ID and Name of Airlines and Airports:` ).
 
 
-
   ENDMETHOD.
 ENDCLASS.
